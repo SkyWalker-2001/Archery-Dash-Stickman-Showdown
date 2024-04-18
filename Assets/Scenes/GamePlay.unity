@@ -178,8 +178,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -1683244125
+  m_SortingLayer: 1
   m_SortingOrder: 0
   m_Sprite: {fileID: -1573861276, guid: d20c3bab9cbf82647adbb6816167182a, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -581,7 +581,7 @@ MonoBehaviour:
   m_Intensity: 1
   m_LightVolumeIntensity: 1
   m_LightVolumeIntensityEnabled: 0
-  m_ApplyToSortingLayers: 00000000
+  m_ApplyToSortingLayers: 00000000a3bbab9b
   m_LightCookieSprite: {fileID: 0}
   m_DeprecatedPointLightCookieSprite: {fileID: 0}
   m_LightOrder: 0
@@ -1469,7 +1469,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   arrow_Prefab: {fileID: 5577804925405583113, guid: 0995834522f3ec344b67c848c46066d5, type: 3}
   arrow_SpawnPoint: {fileID: 722818761}
-  shootTimerCounter: 0
   shootTime: 1
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
